@@ -2,12 +2,24 @@
 
 Bu proje, bir satış ekibinin performansını, hedeflerini ve bu hedeflere ulaşma oranlarını (H/G) dinamik ve interaktif bir şekilde analiz etmek amacıyla Microsoft Power BI kullanılarak geliştirilmiş profesyonel bir dashboard'dur.
 
-<img width="1668" height="884" alt="dasboard_14temmuz" src="https://github.com/user-attachments/assets/ef4e1a35-a75a-4a63-9e64-340eae2d182b" />
+### 📺 Canlı Demo
 
+**Dashboard'u interaktif olarak deneyimlemek için aşağıdaki linke tıklayabilirsiniz:**
+
+[**Power BI Üzerinde Canlı Raporu Görüntüle**](https://app.powerbi.com/view?r=eyJrIjoiNmVlMjQ5OTUtYmJiNy00OGM2LWFhMTItMGRjYzgzOTJiNjdkIiwidCI6IjgxYWMzZmNiLTBlMzQtNDJmNS1iZThlLTdiOGQyMjg2MGUxYiIsImMiOjl9)
+
+---
+
+### 🖼️ Dashboard Önizlemesi
+<img width="1668" height="884" alt="Dashboard Önizlemesi" src="https://github.com/user-attachments/assets/ef4e1a35-a75a-4a63-9e64-340eae2d182b" />
+
+---
 
 ## 🎯 Projenin Amacı
 
 Bu dashboard, satış yöneticilerine ve ekip üyelerine, performansı anlık olarak takip etme, güçlü ve zayıf yönleri tespit etme ve verilere dayalı stratejik kararlar alma imkanı sunar. Karmaşık satış verilerini, anlaşılması kolay ve görsel olarak zengin bir arayüze dönüştürmeyi hedefler.
+
+---
 
 ## 🚀 Öne Çıkan Özellikler
 
@@ -18,10 +30,14 @@ Bu dashboard, satış yöneticilerine ve ekip üyelerine, performansı anlık ol
 * **Detaylı Veri Tablosu:** Genel bir bakış sunan ve tüm temsilcilerin metriklerini içeren sıralanabilir bir tablo içerir.
 * **İnteraktif Deneyim:** Tüm grafikler ve tablolar birbiriyle etkileşim halindedir. Herhangi bir grafikte yapılan bir seçim, tüm raporu anında filtreler.
 
+---
+
 ## 🛠️ Kullanılan Teknolojiler
 
 * **Microsoft Power BI:** Raporlama, görselleştirme ve interaktif dashboard oluşturma aracı.
-* **DAX (Data Analysis Expressions):** Projeye özel hesaplanmış ölçülerin (measures) ve KPI'ların oluşturulması için kullanılan formül dilidir.
+* **DAX (Data Analysis Expressions):** Projeye özel hesaplanmış ölçülerin (measures) ve KPI'ların oluşturulması için kullanılan formül dili.
+
+---
 
 ## ⚙️ Kurulum ve Kullanım
 
@@ -30,6 +46,8 @@ Bu dashboard, satış yöneticilerine ve ekip üyelerine, performansı anlık ol
 3.  `Dosya > Gözat` menüsünden `.pbix` dosyasını açın.
 4.  Kendi veri kaynağınızı bağlamak için `Dönüştürme Verileri (Transform Data) > Veri Kaynağı Ayarları (Data Source Settings)` yolunu izleyerek mevcut kaynağı kendi veri tabanınız, Excel dosyanız veya diğer kaynağınız ile değiştirin.
 
+---
+
 ## ✍️ Yazar
 
-* **EMRE ENGİN** 
+* **EMRE ENGİN**
